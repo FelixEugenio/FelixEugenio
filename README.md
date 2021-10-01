@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Felix Eugenio Mavila é meu nome,  sou angolano desenvolvedor Back-end web / mobile, sempre fui apaixonado por tecnologias  principalmente saber como é que elas funcionam debaixo dos panos, Por isso decidi me tornar num  dev back-end.
+Felix Eugenio Mavila is my name, I'm Angolan Back-end web / mobile developer, I've always been passionate about technologies especially knowing how they work under the covers, That's why I decided to become a back-end dev.
 
 ## 
  <div>
