@@ -3,9 +3,6 @@
 
  ### Minha motivação vem da busca constante por desafios intelectuais e pela paixão em resolver problemas complexos. A lógica e a estruturação de dados me fascinam, e a oportunidade de trabalhar nos bastidores, desenvolvendo a infraestrutura que sustenta as aplicações, é algo que me impulsiona diariamente.
 
-### Busco construir uma carreira sólida como programador backend, contribuindo para projetos inovadores e desafiadores. Estou em constante aprendizado, buscando aprimorar minhas habilidades técnicas e adotar as melhores práticas de desenvolvimento. Além disso, busco um ambiente de trabalho dinâmico e colaborativo, onde possa crescer profissionalmente e contribuir de forma significativa para o sucesso da equipe e da empresa como um todo.
-
-
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 ### Tecnologias que uso no meu dia 
