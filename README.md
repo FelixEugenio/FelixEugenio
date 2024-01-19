@@ -3,8 +3,6 @@
 
  ### Minha motivação vem da busca constante por desafios intelectuais e pela paixão em resolver problemas complexos. A lógica e a estruturação de dados me fascinam, e a oportunidade de trabalhar nos bastidores, desenvolvendo a infraestrutura que sustenta as aplicações, é algo que me impulsiona diariamente.
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-
 ### Tecnologias que uso no meu dia 
 
 <div style="display: inline_block"><br/>
