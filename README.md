@@ -1,6 +1,9 @@
 
-### Olá Sou o Félix Mavila ✋ Desenvolvedor Back-End e Front End, com mais de 5 anos de experiência em desenvolvimento de app web e backend . Tenho conhecimentos em programação nas seguintes linguagens e tecnologias, 
-NODEJS, TYPESCRIPT, PRISMA , NEXT , REACT, REACT NATIVE , PHP, JAVASCRIPT, HTML, BOOSTRAP,  SQL, C# e DATABASE .Tenho experiência em melhores práticas de desenvolvimento MVC, POO etc. Experiência  em controlo de versionamento  e trabalho em equipe com GIT e GITHUB e hospedagem de App . Disponível para início imediato em trabalho Remoto e Hibrido. 
+### Meu nome é Félix Eugénio Mavila , e sou um entusiasta apaixonado por tecnologia e programação. Desde sempre, fui fascinado pela capacidade da tecnologia de transformar ideias em soluções concretas. Decidi me tornar um programador backend porque vejo nessa área a oportunidade de criar sistemas robustos e eficientes que impulsionam o funcionamento de aplicativos e serviços.
+
+Minha motivação vem da busca constante por desafios intelectuais e pela paixão em resolver problemas complexos. A lógica e a estruturação de dados me fascinam, e a oportunidade de trabalhar nos bastidores, desenvolvendo a infraestrutura que sustenta as aplicações, é algo que me impulsiona diariamente.
+
+Busco construir uma carreira sólida como programador backend, contribuindo para projetos inovadores e desafiadores. Estou em constante aprendizado, buscando aprimorar minhas habilidades técnicas e adotar as melhores práticas de desenvolvimento. Além disso, busco um ambiente de trabalho dinâmico e colaborativo, onde possa crescer profissionalmente e contribuir de forma significativa para o sucesso da equipe e da empresa como um todo.
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
